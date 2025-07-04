@@ -14,7 +14,7 @@ The primary goal of this script is to demonstrate web automation using the Selen
   * **User-Paced Start:** The bot waits for the user to handle the cookie consent and then waits for an "Enter" key press to begin the automation.
 
 ## Requirements
-
+  * `Google Chrome`
 To run this script, you will need to have Python installed, along with the following libraries:
 
   * `selenium`
