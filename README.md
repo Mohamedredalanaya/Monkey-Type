@@ -15,6 +15,7 @@ The primary goal of this script is to demonstrate web automation using the Selen
 
 ## Requirements
   * `Google Chrome`
+    
 To run this script, you will need to have Python installed, along with the following libraries:
 
   * `selenium`
